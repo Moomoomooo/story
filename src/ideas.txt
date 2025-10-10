@@ -1,1 +1,2 @@
-million-mile slash - 100 initiative, 2 actions, 2x base damage with 10% variability.
+million-mile slash - 100 base initiative, X actions. [Physical]. Initiative increases by 25 per action spent. Damage multiplier scales by initiative,
+where x = 1.5 + initiative/100. (ex: a player with initiative 14 spends 4 actions, using million-mile slash with with a total initative of 214 and a damage multiplier of 3.64).
