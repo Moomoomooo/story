@@ -1,7 +1,9 @@
 The basic format is turn-based combat. 
 
-  each ability has BASE {{INITIATIVE}} score. Each entity in the fight adds their initiative value to that score, and that sum is added to an ordered list.
-  Characters act highest-to-lowest. 
+  each ability has BASE {{INITIATIVE}} score. Each entity in the fight adds their initiative value to that score, and that sum is added to an ordered list. Characters select their action (or actions) for the round before any actions are executed.
+  Characters act highest-to-lowest.
+
+Some actions have a {{SPECIAL}} initiative score. For example, maybe a {{PARRY-RIPOSTE}} skill that automatically blocks and counter's an enemy's attack. 
 
   However, a character's action can be {{DISRUPTED}} if they get hit by an enemy's attack(hence, going first giving you a change to disrupt attacks
 and avoid being disrupted), especially if they recieve a critical hit. A character has a chance to BLOCK or DODGE. {{BLOCKING}} is safer but might 
