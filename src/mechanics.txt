@@ -10,3 +10,8 @@ and avoid being disrupted), especially if they recieve a critical hit. A charact
 not negate all the damage. DODGING is riskier; since you break your stance, a failed dodge automatically {{DISRUPTS}} you and makes you more 
 likely to recieve a {{CRITICAL HIT}}. Still, a succcessful dodge negates all damage and effects, and a {{CRITICAL DODGE}} means you expose an 
 enemy's weak point(rolling behind their back or under their belly), guarenteeing your next attack will be an {{UNAVOIDABLE}} {{CRITICAL HIT}}.
+
+If the player is hit before they can use a consumable item, that action is automatically DISRUPTED and the item is wasted.
+
+As the player progresses, they will recieve more actions per round. Enemies will also gain more actions per round. (the final boss {{YMIR}} will get a total of nine). Some abilities will cost more than one action, balancing power for multitude. Mostly, one action abilities are faster than multi-action ones(unless, say, the express trade-off of the ability is greater speed). 
+
