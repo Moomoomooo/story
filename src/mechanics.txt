@@ -1,6 +1,6 @@
 The basic format is turn-based combat. 
 
-  each ability has BASE {{INITIATIVE}} score. Each entity in the fight adds their initiative value to that score, and that sum is added to an ordered list. Characters select their action (or actions) for the round before any actions are executed.
+  each ability has BASE {{INITIATIVE}} score. Each entity in the fight adds their initiative value to that score, and that sum is added to an ordered list. Characters select their action (or actions) for the round before any actions are executed. Most abilities stay within the 0-100 range. If there is an initative tie, boss monsters act first, followed by the player, then regular monsters, than allies. In-group ties are resolved in an arbitrary order.
   Characters act highest-to-lowest.
 
 Some actions have a {{SPECIAL}} initiative score. For example, maybe a {{PARRY-RIPOSTE}} skill that automatically blocks and counter's an enemy's attack. 
