@@ -10,6 +10,4 @@ export enum SkillFlags {
   BUFF,
   DEBUFF,
   LIFESTEAL,
-  ACTIVE,
-  PASSIVE,
 }
