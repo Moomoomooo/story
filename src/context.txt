@@ -5,19 +5,33 @@ As an einherjar, Niam lacks the ability to die. but Niam isn't [HALLOWED], which
 
 Heaven is rotting. Infected. 
 
-$$ BEGINNING $$
+$$ Act I $$
 
 tutorial fight is Red, Niam's einherjar mentor. Red is a [PHYSICAL] and [BLEED]-based fighter. Introduces the player to basic attacks, abilities, and conditions. Based on little Red Riding hood. A blonde woman with a bright red cowl. Red fights with a pair of hatchets (woodsman reference), which trails blood-red energy around when she swings it (the energy is a reference to the wine Red Riding Hood carries in her basket.) 
 
 
 In the climax of the first act, Red saves Niam from Fenrir (the big bad wolf), giving our protagonist a chance to flee. Red's fate becomes uncertain, and won't be encountered again until act IV. 
 
+ACT II:
 
+$$ ACT III: little pigs $$
+
+Act III boss: Saeshrimir (i spelled that wrong) - a powerful [[Physical]] animal fighter. A goat-pig. 
+
+$$ Act IV $$
 
 act IV Boss: Rotting Red. Once again an agile [PHYSICAL] and [BLEED]-based fighter, but corrupted to be much more agressive and deadly. Now based on the Nuckalevee (Red Riding Hood. Like Riding a Horse, get it?) and bears an acid-scarred appearance (like half-dissolved in stomach acid). The blades of her axe have now fused to her wrists in place of her hands, which have detached and enlarged into grotesque disembodied "wings" that float behind her back. ("What big hands you have!"). A single massive inhuman eye dominates what was once her face, mirrored by two other eye embedded in each of her palms ("what big eyes you have!"). The horse-half has an enormous slavering maw. Its mane is made of human teeth. ("What big teeth you have!"). The ears of both the horse and the human body are elongated into wicked, fleshy horns. ("what big ears you have!") 
+  Attacks:
+* to see you with -
+* to hear you with -
+* to hug you with -
+* to eat you with -
 
 
+$$ Act VIII $$
 Act VIII boss: Surtr
+
+$$ Act IX $$
 
 
 Final Boss, first stage: Fenris Wolf. A powerful infected Wolf. Invulnerable to [PHYSICAL] damage. 
