@@ -1,0 +1,10 @@
+The basic format is turn-based combat. 
+
+  each ability has BASE {{INITIATIVE}} score. Each entity in the fight adds their initiative value to that score, and that sum is added to an ordered list.
+  Characters act highest-to-lowest. 
+
+  However, a character's action can be {{DISRUPTED}} if they get hit by an enemy's attack(hence, going first giving you a change to disrupt attacks
+and avoid being disrupted), especially if they recieve a critical hit. A character has a chance to BLOCK or DODGE. {{BLOCKING}} is safer but might 
+not negate all the damage. DODGING is riskier; since you break your stance, a failed dodge automatically {{DISRUPTS}} you and makes you more 
+likely to recieve a {{CRITICAL HIT}}. Still, a succcessful dodge negates all damage and effects, and a {{CRITICAL DODGE}} means you expose an 
+enemy's weak point(rolling behind their back or under their belly), guarenteeing your next attack will be an {{UNAVOIDABLE}} {{CRITICAL HIT}}.
