@@ -27,10 +27,10 @@ levelups are collectibles. there are 11 levelups in each region(so the max level
 4. {{Power of Prophecy}}. A warrior angel, wielding {{HOLY}} and {{PHYSICAL}} attacks.
 5. {{Virtue}}. 
 6. Dominion
-7. {{THRONES OF THE HALF-GOD}}. A pair powerul flaming wheels that wields powerful {{HOLY}} and {{FIRE}}{{SPELLS}}. 
+7. {{THRONES OF THE HALF-GOD}}. A pair of powerul flaming wheels that wields powerful {{HOLY}} and {{FIRE}} {{SPELLS}}. 
 8. {{Cherub }}. A four-faced angelic entity. Each face gets to take its own action and has its own traits. The defending face is always the one that last acted. The Lion is a mixed {{PHYSICAL}} and {{MAGICAL}} {{FIRE}} based fighter. It can also cast {{BUFF}}s its allies with its magestic presence. Its defenses are moderate, but its highly resistant to debuffs. The Ox face is a powerful but slow {{PHYSICAL}} tank with high offense and defense, and its horn attacks have especially high {{PIERCE}}. The Eagle face is a fast and agile {{PHYSICAL}} threat that can inflict high damage and {{BLEED}} but has low defenses. The human face is a {{MAGICAL}} fighter that inflicts massive damage on-hit, but is the weakest defensively. 
     Lion Face: Sunmane Aura, Blazing Fangs, 
     Ox Face: 
     Eagle Face: Soaring claws, Eagle Eyes(inflicts {{LOCK-ON}}.
     Human face: Glimmer Bolts, 
-9. Seraph - three stage boss fight as the seraph unfurls its wings. 
+9. Seraph - three stage boss fight as the seraph unfurls its wings. wields {{Holy}}
