@@ -15,4 +15,22 @@ If the player is hit before they can use a consumable item, that action is autom
 
 As the player progresses, they will recieve more actions per round. Enemies will also gain more actions per round. (the final boss {{YMIR}} will get a total of nine). Some abilities will cost more than one action, balancing power for multitude. Mostly, one action abilities are faster than multi-action ones(unless, say, the express trade-off of the ability is greater speed, like million-mile slash).
 
-Magical power is drawn from {{DIVINITY}}. 
+
+
+levelups are collectibles. there are 11 levelups in each region(so the max level is 100.)  10 scattered throughout the plain and one as a reward for defeating the region's final boss.
+
+
+{{DIVINITY}} is a special stat. {{DIVINITY}} is increased by hanging from a {{ROPE OF REVELATION}} and completing a {{MINDSCAPE BATTLE}}. {{MINDSCAPE BATTLE}}s are special boss battles fought in the center of Niam's mind. 
+1. Angel. A relatively simple boss that uses {{PHYSICAL}} and {{MAGICAL}} {{HOLY}} attacks. 
+2. Archangel
+3. Principality 
+4. {{Power of Prophecy}}. A warrior angel, wielding {{HOLY}} and {{PHYSICAL}} attacks.
+5. {{Virtue}}. 
+6. Dominion
+7. {{THRONES OF THE HALF-GOD}}. A pair powerul flaming wheels that wields powerful {{HOLY}} and {{FIRE}}{{SPELLS}}. 
+8. {{Cherub }}. A four-faced angelic entity. Each face gets to take its own action and has its own traits. The defending face is always the one that last acted. The Lion is a mixed {{PHYSICAL}} and {{MAGICAL}} {{FIRE}} based fighter. It can also cast {{BUFF}}s its allies with its magestic presence. Its defenses are moderate, but its highly resistant to debuffs. The Ox face is a powerful but slow {{PHYSICAL}} tank with high offense and defense, and its horn attacks have especially high {{PIERCE}}. The Eagle face is a fast and agile {{PHYSICAL}} threat that can inflict high damage and {{BLEED}} but has low defenses. The human face is a {{MAGICAL}} fighter that inflicts massive damage on-hit, but is the weakest defensively. 
+    Lion Face: Sunmane Aura, Blazing Fangs, 
+    Ox Face: 
+    Eagle Face: Soaring claws, 
+    Human face: 
+9. Seraph of 
