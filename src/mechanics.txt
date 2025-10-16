@@ -19,18 +19,45 @@ As the player progresses, they will recieve more actions per round. Enemies will
 
 levelups are collectibles. there are 11 levelups in each region(so the max level is 100.)  10 scattered throughout the plain and one as a reward for defeating the region's final boss.
 
+The player attributes are:
+Presence: governs HP, as well as affecting resistence to most status conditions, like direct stat penalties, disease, poison, bleed, stagger, madness, sleep, and instant death. Represents the strength of your tether to your incarnation.
+Strength: physical power and fitness. Affects {{PHYSICAL}} damage output.
+Agility: governs base initiative score and dodge window. Also affects damage output for {{PHYSICAL}} attacks. 
+Acuity: mental speed and battle IQ; your ability to think on your feet. Improves time to select skills (approx. +0.2 seconds per stat point.) and unlocks more signature slots. Also affects resistance to madness and sleep. 
+Spirit: the strength of your spirit. Directly determines total SP and SP regen. Also governs resistance to curses, instant death, and madness.
+Faith: 
 
-{{DIVINITY}} is a special stat. {{DIVINITY}} is increased by hanging from a {{ROPE OF REVELATION}} and completing a {{MINDSCAPE BATTLE}}. {{MINDSCAPE BATTLE}}s are special boss battles fought in the center of Niam's mind. 
-1. Angel. A relatively simple boss that uses {{PHYSICAL}} and {{MAGICAL}} {{HOLY}} attacks. 
+{{BLADE ARTS}}
+
+{{SPELLS}}
+
+
+
+
+{{DIVINITY}} is a special stat. {{DIVINITY}} is increased by hanging from a {{ROPE OF REVELATION}} and completing a {{MINDSCAPE BATTLE}}. 
+0. mortal
+1. Elect - unlocks {{RUNE MAGIC}}
+2. 
+3. Saint
+4. Prophet - unlocks the {{FORESIGHT}} revelation that 
+5. Immortal
+6. 
+7. Demigod
+8. Avatar - unlocks the {{DESCENT}} Revalation
+9. Aesir
+
+
+{{MINDSCAPE BATTLE}}s are special boss battles fought in the center of Niam's mind. 
+1. {{Revelation's Angel}} A relatively simple boss that uses {{PHYSICAL}} and {{MAGICAL}} {{HOLY}} attacks. A shining, faceless female figure made of light surrounded by a floating scroll enscribed with glowing runes. 
 2. Archangel
 3. Principality 
 4. {{Power of Prophecy}}. A warrior angel, wielding {{HOLY}} and {{PHYSICAL}} attacks.
 5. {{Virtue}}. 
 6. Dominion
-7. {{THRONES OF THE HALF-GOD}}. A pair of powerul flaming wheels that wields powerful {{HOLY}} and {{FIRE}} {{SPELLS}}. 
-8. {{Cherub }}. A four-faced angelic entity. Each face gets to take its own action and has its own traits. The defending face is always the one that last acted. The Lion is a mixed {{PHYSICAL}} and {{MAGICAL}} {{FIRE}} based fighter. It can also cast {{BUFF}}s its allies with its magestic presence. Its defenses are moderate, but its highly resistant to debuffs. The Ox face is a powerful but slow {{PHYSICAL}} tank with high offense and defense, and its horn attacks have especially high {{PIERCE}}. The Eagle face is a fast and agile {{PHYSICAL}} threat that can inflict high damage and {{BLEED}} but has low defenses. The human face is a {{MAGICAL}} fighter that inflicts massive damage on-hit, but is the weakest defensively. 
+7. {{BLAZING THRONE OF THE HALF-GOD}} and {{SHINING THRONE OF THE HALF-GOD}}. A pair of powerul flaming wheels that wields powerful {{HOLY}} and {{FIRE}} {{SPELLS}}. 
+8. {{Incarnate Cherub}}. A four-faced angelic entity. Each face gets to take its own action and has its own traits. The defending face is always the one that last acted. The Lion is a mixed {{PHYSICAL}} and {{MAGICAL}} {{FIRE}} based fighter. It can also cast {{BUFF}}s its allies with its magestic presence. Its defenses are moderate, but its highly resistant to debuffs. The Ox face is a powerful but slow {{PHYSICAL}} tank with high offense and defense, and its horn attacks have especially high {{PIERCE}}. The Eagle face is a fast and agile {{PHYSICAL}} threat that can inflict high damage and {{BLEED}} but has low defenses. The human face is a {{MAGICAL}} fighter that inflicts massive damage on-hit, but is the weakest defensively. 
     Lion Face: Sunmane Aura, Blazing Fangs, 
     Ox Face: 
     Eagle Face: Soaring claws, Eagle Eyes(inflicts {{LOCK-ON}}.
     Human face: Glimmer Bolts, 
-9. Seraph - three stage boss fight as the seraph unfurls its wings. wields {{Holy}}
+9. Seraph - three stage boss fight as the seraph unfurls its wings. wields emmensely {{Holy}}, {{ICE}}, {{FIRE}}, and {{LIGHTNING}} {{SPELLS}}. 
