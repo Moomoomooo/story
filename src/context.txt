@@ -2,6 +2,7 @@
 
 As an einherjar, Niam lacks the ability to die. but Niam isn't [HALLOWED], which means he can't be corrupted by the infection. Alternatively, Niam has [JOTUN] blood. 
 
+Niam is a lightweight fighter like his mentor, red.
 
 Heaven is rotting. Infected. 
 
@@ -26,6 +27,7 @@ act IV Boss: Rotting Red. Once again an agile [PHYSICAL] and [BLEED]-based fight
 * to hear you with -
 * to hug you with -
 * to eat you with -
+Rewards: 
 
 
 $$ Act VIII $$
