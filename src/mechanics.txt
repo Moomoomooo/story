@@ -25,11 +25,11 @@ Strength: physical power and fitness. Affects {{PHYSICAL}} damage output.
 Agility: governs base initiative score and dodge window. Also affects damage output for {{PHYSICAL}} attacks. 
 Acuity: mental speed and battle IQ; your ability to think on your feet. Improves time to select skills (approx. +0.2 seconds per stat point.) and unlocks more signature slots. Also affects resistance to madness and sleep. 
 Spirit: the strength of your spirit. Directly determines total SP and SP regen. Also governs resistance to curses, instant death, and madness.
-Faith: 
+Grace: 
 
-{{BLADE ARTS}}
+{{BLADE ARTS}} are 
 
-{{SPELLS}}
+{{SPELLS}} are complicated magical arts, 
 
 
 
@@ -38,13 +38,13 @@ Faith:
 0. mortal
 1. Elect - unlocks {{RUNE MAGIC}}
 2. 
-3. Saint
-4. Prophet - unlocks the {{FORESIGHT}} revelation that 
+3. Saint - 
+4. Prophet - unlocks the {{FORESIGHT}} revelation that lets you 
 5. Immortal
 6. 
 7. Demigod
-8. Avatar - unlocks the {{DESCENT}} Revalation
-9. Aesir
+8. Avatar - unlocks the {{DESCENT}} Revelation, 
+9. Aesir 
 
 
 {{MINDSCAPE BATTLE}}s are special boss battles fought in the center of Niam's mind. 
