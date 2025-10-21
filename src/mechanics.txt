@@ -21,7 +21,7 @@ levelups are collectibles. there are 11 levelups in each region(so the max level
 
 The player attributes are:
 Presence: governs HP, as well as affecting resistence to most status conditions, like direct stat penalties, disease, poison, bleed, stagger, madness, sleep, and instant death. Represents the strength of your tether to your incarnation.
-Strength: physical power and fitness. Affects {{PHYSICAL}} damage output.
+Fitness: Strength and body control. Affects {{PHYSICAL}} damage output.
 Agility: governs base initiative score and dodge window. Also affects damage output for {{PHYSICAL}} attacks.
 Acuity: mental speed and battle IQ; your ability to think on your feet. Improves time to select skills (approx. +0.2 seconds per stat point.) and unlocks more signature slots. Also affects critical chance and resistance to madness and sleep. Vital for learning many skills. 
 Spirit: The raw strength of your spirit. Directly determines total SP and SP regen. Also governs resistance to curses, instant death, and madness.
