@@ -42,6 +42,11 @@ Final Boss, first stage: Fenris Wolf. A powerful infected Wolf. Invulnerable to 
 
 
 Final Boss: Ymir, World's Soul. Design heavily based on Tlaltecuhtli, mesoamerican "earth monster" deity. A powerful [DIVINITY] that can wield [FIRE] (Muspelhiem), [ICE] (niflheim) attacks, while afflicing the player with his powerful illusion [SPELL]s (ginnunagap). This is based on the creation myth where the muspelhiem and niflhiem created Ymir in the Gunningagap in the original mythology. As the "earth monster", it can also deal powerful [PHYSICAL] damage and inflict heavy [BLEED] (because aztec blood sacrifices were performed to appease the earth monster).  
-A parallel is drawn to cutting open the wolf's stomach? forshaow the 'grandmother' of all things. Fenrir talks about being the "incubator" for the infection's final stage. 
+A parallel is drawn to cutting open the wolf's stomach? forshaow the 'true grandmother' of all things. Fenrir talks about being the "incubator" for the infection's final stage. 
 
 Optional Boss: Jormungandr. Highly difficult [VENOM] and [PHYSICAL] based fighter. heavily resists [MAGIC] but is weak to [LIGHTNING]. Resides in [EIELA] but is definitely an endgame boss. Even dealing it [PHYSICAL] damage inflicts retaliatory [VENOM] damage. Defeating him grants [Fang of the World] weapon and [Serpent's Scale-Mail] armor items.
+
+Reoccuring boss: Ratatoskr. Agile [PHYSICAL] fighter with a myriad of [MENTAL] [DEBUFF]s and [DRUIDIC] magic. Ratatoskr is parralled with the many foxes of fables, a cunning trickster and bringer of trouble. Intentionally annoying, designed with many "gotcha" abilities. To avoid seeming unnessesarily frustrating,, this should be foreshadowed heavily to players, encouraging them to beat the rodent at its own game. In particular, Ratatoskr is invulnerable (except to the spreading infection), which means every fight with him is an enviormental puzzle. Lore wise, Ratatoskr is an giant wooden squirrel, errant child of the Grandmother Oak. Ratatoskr serves as a transient sometime-ally throughout the story, helping and harming as he pleases. He's motivated by his fascination with [Eye of the Sower], refering to Niam as "Father-man." Ratatoskr can be fought a total of 3 times throughout the game. [RATATOSKR'S FOOTPRINTS] occassionally show up throughout the game, guiding the player to findable items... or especially dangerous areas. 
+
+
+
