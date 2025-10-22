@@ -10,7 +10,7 @@ Heaven is rotting. Infected.
 
 $$ Act I $$
 
-tutorial fight is Red, Niam's einherjar mentor. Red is a [PHYSICAL] and [BLEED]-based fighter. Introduces the player to basic attacks, abilities, and conditions. Based on little Red Riding hood. A blonde woman with a bright red cowl. Red fights with a pair of hatchets (woodsman reference), which trails blood-red energy around when she swings it (the energy is a reference to the wine Red Riding Hood carries in her basket.) 
+tutorial fight is Red, Niam's einherjar mentor. Red is a [PHYSICAL] and [BLEED]-based fighter. Introduces the player to basic attacks, abilities, and conditions. Based on little Red Riding hood. A blonde woman with a bright red cowl. Red fights with a pair of hatchets (woodsman reference), which trails blood-red energy around when she swings them around (the energy is a reference to the wine Red Riding Hood carries in her basket.) 
 
 
 In the climax of the first act, Red saves Niam from Fenrir (the big bad wolf), giving our protagonist a chance to flee. Red's fate becomes uncertain, and won't be encountered again until act IV. 
@@ -33,7 +33,8 @@ Rewards:
 
 
 $$ Act VIII $$
-Act VIII boss: Surtr
+
+Act VIII boss: Surtr - the warlord King of Valquera, known for his terriying stature and mastery of {FIRE}-style {BLADE ARTS}. Surtr is best known as the one who slew the last of the Aesir and felled the Grandmother Tree, plunging the worlds into the Age of Turmoil. King Surtr wields the mighty Sword of Summer, a massive flaming greatsword fit for the one called the King of Tumult. A berserker-style fighter, he is fairly easy to hit but very hard to {{DISRUPT}}. Surtr is divinity level 7. He gets four actions per round, but usually uses 2+ action-cost skills, all of which are almost garenteed to {{disrupt}} the player on-hit. Surtr has heavy defenses. 
 
 $$ Act IX $$
 
