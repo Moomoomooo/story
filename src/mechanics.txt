@@ -27,6 +27,8 @@ Acuity: mental speed and battle IQ; your ability to think on your feet. Improves
 Numen: The raw strength of your spirit. Directly determines total SP and SP regen. Also governs resistance to curses, instant death, and madness.
 Grace: Your attunement to supernatural forces. The main stat governing magic. improves resistance against disease and curses. 
 
+Ego equipment: Your armaments are reflections of your will, conjured from your spiritual power. You can customize your armaments via {{KEEPSAKES}}, 
+
 {{BLADE ARTS}} are powerful martial forms executed by infusing your weapon with spiritual power. 
 
 {{SPELLS}} are complicated magical arts performed by channeling your spiritual power into the 
