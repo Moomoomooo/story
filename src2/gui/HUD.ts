@@ -1,5 +1,7 @@
 export const HUD = {
   hud: document.getElementById("hud"),
+  enemySection: document.getElementById("enemySection"),
+  playerSection: document.getElementById("playerSection"),
   healthBar: document.createElement("div"),
   spiritBar: document.createElement("div"),
   
