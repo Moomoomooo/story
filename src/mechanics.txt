@@ -31,7 +31,7 @@ Ego equipment: Your armaments are reflections of your will, conjured from your s
 
 {{BLADE ARTS}} are powerful martial forms executed by infusing your weapon with spiritual power. 
 
-{{SPELLS}} are complicated magical arts performed by channeling your spiritual power into the 
+{{SPELLS}} are complicated magical arts performed by channeling your spiritual power into mystical runes encoded in reality.
 
 
 
@@ -56,10 +56,10 @@ Ego equipment: Your armaments are reflections of your will, conjured from your s
 4. {{Power of Prophecy}}. A warrior angel, wielding {{HOLY}} and {{PHYSICAL}} attacks. Also wields {{MAGICAL}}-style blade arts. 
 5. {{Virtue}}. 
 6. Dominion
-7. {{BLAZING THRONE OF THE HALF-GOD}} and {{SHINING THRONE OF THE HALF-GOD}}. A pair of powerul flaming wheels that wields powerful {{FIRE}} and {{HOLY}} {{SPELLS}}, respectively.
+7. {{BLAZING THRONE OF THE HALF-GOD}} and {{SHINING THRONE OF THE HALF-GOD}}. A pair of powerul flaming wheels that wields powerful {{FIRE}} and {{HOLY}} {{SPELLS}}, respectively. 
 8. {{Incarnate Cherub}}. A four-faced angelic entity. Each face gets to take its own action and has its own traits. The defending face is always the one that last acted. The Lion is a mixed {{PHYSICAL}} and {{MAGICAL}} {{FIRE}} based fighter. It can also cast {{BUFF}}s its allies with its magestic presence. Its defenses are moderate, but its highly resistant to debuffs. The Ox face is a powerful but slow {{PHYSICAL}} tank with high offense and defense, and its horn attacks have especially high {{PIERCE}}. The Eagle face is a fast and agile {{PHYSICAL}} threat that can inflict high damage and {{BLEED}} but has low defenses. The human face is a {{MAGICAL}} fighter that inflicts massive damage on-hit, but is the weakest defensively. 
     Lion Face: Sunmane Aura, Blazing Fangs, 
     Ox Face: 
     Eagle Face: Soaring claws, Eagle Eyes(inflicts {{LOCK-ON}}.
     Human face: Glimmer Bolts, 
-9. Seraph of the Fallen Gods - three stage boss fight as the seraph unfurls its wings. wields emmensely powerful {{Holy}}, {{ICE}}, {{FIRE}}, and {{LIGHTNING}} {{SPELLS}}. 
+9. Seraph of the Fallen Gods - three stage boss fight as the seraph unfurls its wings. wields emmensely powerful {{Holy}}, {{ICE}}, {{FIRE}}, and {{LIGHTNING}} {{SPELLS}}. The angel is made of organic material from the Grandmother Tree. 
